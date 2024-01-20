@@ -76,7 +76,7 @@ const transactions = [
         paymentType: "Funds",
     },
 ]
-//object we want to find
+
 const transactionId = {
     transactionId: "XX236824265",
     paymentMethod: "ATM",
